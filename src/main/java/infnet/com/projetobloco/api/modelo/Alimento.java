@@ -19,4 +19,5 @@ public class Alimento {
     private long codigo;
     private String nomeAlimento;
     private long quantidade; 
+    private boolean recomendado;
 }
